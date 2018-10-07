@@ -1,0 +1,4 @@
+#Tue Mar 27 00:52:40 IST 2018
+base.0=C\:\\Users\\shiva\\AndroidStudioProjects\\IEDAARM5\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\49
+path.0=classes.dex
+renamed.0=classes.dex
