@@ -1,20 +1,25 @@
 package com.example.iedaarm5;
 
-public class Location{
+public class Location
+{
     private String fird;
-
-    public Location(){
+    //empty constructor to avoid error
+    public Location()
+    {
 
     }
-    public Location(String fird) {
+    public Location(String fird) 
+    {
         this.fird = fird;
     }
 
-    public String getFird() {
+    public String getFird() 
+    {
         return fird;
     }
 
-    public void setFird(String fird) {
+    public void setFird(String fird) 
+    {
         this.fird = fird;
     }
 }
